@@ -16,3 +16,5 @@ $(window).on("scroll", function() {
 	padre = imagen.parentNode;
 	padre.removeChild(imagen);
 	}*/
+var phone = document.getElementById("phone").value;
+var name=document.getElementById("name").value;
