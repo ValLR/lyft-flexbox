@@ -80,9 +80,7 @@ body{
   	padding-left:50px;
   	padding-bottom:30px;
   }
-  #logo-container.active{
-  	margin-left:100px;
-  }
+
   #menu-login{
   	border:1.5px solid white;
   	padding-top:10px;
