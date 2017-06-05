@@ -71,6 +71,7 @@ body{
   	text-decoration:none;
   	padding:30px 30px;
   	color:white;
+	cursor:pointer;
   }
   .menu.flex-container{
   	display:flex;
